@@ -1,0 +1,29 @@
+#log
+logs
+*.log
+
+#runtime data
+pids
+*.pid
+*.seed
+
+#jscoverage/ directory for instrumented lib created by JSCover lib-cov
+lib-cov
+
+# coverage directory
+coverage
+
+#grunt middle storage(http://gruntjs.com/creating-plubins#storing-task-files)
+.grunt
+
+# node-waf setting
+.lock-wscript
+
+# compiled binary addons(http://nodejs.org/api/addons.html)
+build/Release
+
+# dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-checkmy-node_modules-folder-into-gitnode_modules
+
+# npm debug log
+npm-debug.log
