@@ -27,3 +27,6 @@ build/Release
 
 # npm debug log
 npm-debug.log
+
+# node_modules directory
+node_modules/
